@@ -1,5 +1,12 @@
 # Changelog
 
+## \[2.0.0-beta.18]
+
+### Enhancements
+
+- [`8a71858eb`](https://www.github.com/tauri-apps/tauri/commit/8a71858eb2a9dc12a43d8fb56f803cdcae072b68)([#9630](https://www.github.com/tauri-apps/tauri/pull/9630)) Provide a default for the runtime generic on `Menu`, `MenuItem`, `Submenu`, `PredefinedMenuItem`, `CheckMenuItem` and `IconMenuItem`.
+- [`8a71858eb`](https://www.github.com/tauri-apps/tauri/commit/8a71858eb2a9dc12a43d8fb56f803cdcae072b68)([#9630](https://www.github.com/tauri-apps/tauri/pull/9630)) Provide a default for the runtime generic on `TrayIcon`.
+
 ## \[2.0.0-beta.17]
 
 ### New Features
